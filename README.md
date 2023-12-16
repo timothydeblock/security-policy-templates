@@ -1,4 +1,4 @@
-# secpoltemp
+# security policy templates
 Security Policy Templates
 
 Not for commercial use. 
