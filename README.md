@@ -1,4 +1,4 @@
-# security policy templates
+# Security Policy Templates
 Security Policy Templates
 
 Not for commercial use. 
