@@ -1,0 +1,70 @@
+Identity Access Management (IAM) Policy 
+
+
+Purpose  
+The purpose of this Identity Access Management (IAM) policy is to establish guidelines and procedures for managing user identities, access privileges, and authentication mechanisms within [CLIENT]. This policy ensures that only authorized individuals have access to company resources, systems, and data, while also maintaining the confidentiality, integrity, and availability of information. 
+Scope  
+This policy applies to all employees, contractors, vendors, and any other individuals who have access to [CLIENT]' information systems, applications, and data. 
+ 
+Policy Statements  
+3.1 User Identity and Access Provisioning 
+a. User Provisioning: User accounts shall be created for authorized individuals based on their roles and responsibilities within the organization. Accounts shall be provisioned promptly upon the individual's onboarding. 
+b. Role-Based Access Control (RBAC): Access privileges shall be granted based on the principle of least privilege, using RBAC. Access rights will be assigned to users based on their job roles and responsibilities. 
+c. Access Reviews: Periodic access reviews shall be conducted to ensure that access privileges align with users' current job functions. These reviews shall be performed at least annually or whenever there is a change in user roles. 
+
+
+3.2 User Authentication 
+a. Strong Passwords: Users shall be required to create and maintain strong passwords that meet defined complexity requirements. Passwords should be changed regularly and not reused. 
+b. Multi-Factor Authentication (MFA): MFA shall be implemented for all accounts accessing sensitive systems, applications, and data. MFA mechanisms may include hardware tokens, software tokens, SMS-based codes, or biometrics. 
+c. Account Lockout: Account lockout mechanisms shall be implemented to prevent unauthorized access through brute force attacks. After a defined number of unsuccessful login attempts, the account shall be temporarily locked. 
+d. Account Termination: User accounts shall be promptly deactivated upon termination or when individuals no longer require access to company resources. 
+
+
+3.3 Access Control 
+a. Need-to-Know Principle: Users shall only be granted access to resources and data that are necessary to perform their job functions. 
+b. Least Privilege: Access privileges shall be granted at the minimum level required to carry out job responsibilities. Regular access reviews shall be conducted to ensure privileges are still necessary. 
+c. Separation of Duties: Sensitive tasks and functions shall require multiple individuals to perform. This ensures that no single user has complete control over critical processes. 
+d. Privileged Access Management (PAM): Privileged accounts shall be monitored, audited, and subject to stricter controls, including enhanced authentication, session recording, and time-limited access. 
+
+
+3.4 User Training and Awareness 
+a. Security Awareness Training: Users shall receive regular training on IAM best practices, password security, social engineering, and the importance of protecting access credentials. 
+b. Reporting Suspicious Activity: Users shall be educated on how to identify and report suspicious activities or potential security incidents promptly. 
+
+
+3.5 Monitoring and Auditing 
+a. Log Monitoring: Logs related to user access, authentication events, and privilege changes shall be regularly monitored and reviewed for potential security incidents. 
+b. Regular Audits: Periodic audits shall be conducted to assess the effectiveness of IAM controls, including user account reviews, access logs, and compliance with policies and regulations. 
+
+Responsibilities 
+4.1 Management 
+a. Management shall ensure the implementation and enforcement of this IAM policy. 
+b. Management shall provide necessary resources for IAM controls, including technology, training, and personnel. 
+
+4.2 IT Department 
+a. The IT department shall be responsible for implementing IAM controls, including user provisioning, access reviews, authentication mechanisms, and access control enforcement. 
+b. The IT department shall monitor and respond to IAM-related security incidents. 
+
+
+4.3 Users 
+a. Users shall comply with this IAM policy and report any suspected security breaches or incidents promptly. 
+b. Users shall follow password creation guidelines and handle their access credentials securely. 
+
+
+Policy Compliance 
+Non-compliance with this IAM policy may result in disciplinary action, including but not limited to termination of employment, legal action, or revocation of system access privileges. 
+
+Policy Review 
+This IAM policy shall be reviewed annually or as deemed necessary to ensure its effectiveness and relevance in protecting [CLIENT]' information assets and resources. 
+
+
+
+
+Approved By: 
+[Executive Name] [Date] 
+
+
+Reviewed and Updated By: 
+ [IT Manager] [Date] 
+ 
+
